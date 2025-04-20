@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a placeholder SVG icon for ManjCast -->
+<!-- Replace with actual SVG content -->
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="manjcast-icon">
+  <rect
+     width="33.866666"
+     height="33.866668"
+     x="0"
+     y="0"
+     style="fill:#729fcf;stroke-width:0.264583" />
+  <text
+     x="16.933332"
+     y="19.05"
+     style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+     xml:space="preserve">ManjCast</text>
+</svg> 

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=ManjCast
+Comment=Screen Casting for Manjaro
+GenericName=Screen Casting Tool
+Exec=manjcast
+Icon=video-display
+Terminal=false
+Categories=Utility;AudioVideo;
+Keywords=screencast;cast;stream;chromecast;tv;
