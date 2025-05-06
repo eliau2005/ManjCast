@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ManjCast
+Name[he]=ManjCast
+GenericName=Screen Casting Application
+GenericName[he]=אפליקציית שידור מסך
+Comment=Cast your screen to Chromecast devices
+Comment[he]=שדר את המסך שלך למכשירי Chromecast
+Exec=manjcast
+Icon=cast-screen
+Terminal=false
+Categories=Network;AudioVideo;Video;Qt;
+Keywords=cast;chromecast;screen;streaming;
+StartupNotify=true

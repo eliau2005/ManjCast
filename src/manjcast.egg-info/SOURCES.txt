@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/manjcast.egg-info/PKG-INFO
+src/manjcast.egg-info/SOURCES.txt
+src/manjcast.egg-info/dependency_links.txt
+src/manjcast.egg-info/entry_points.txt
+src/manjcast.egg-info/requires.txt
+src/manjcast.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[gui_scripts]
+manjcast = manjcast.main:main
