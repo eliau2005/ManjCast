@@ -22,7 +22,7 @@ sudo pacman -S python qt6 ffmpeg wmctrl pipewire
 
 1. הורד את קוד המקור:
 ```bash
-git clone https://github.com/yourusername/manjcast.git
+git clone https://github.com/eliau2005/ManjCast.git
 cd manjcast
 ```
 
